@@ -1,4 +1,4 @@
-package com.sajidur.blog.model;
+package com.sajidur.blog.model.POJO;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
